@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[wrappedincolour]]></title>
         <description><![CDATA[wrappedincolour]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/wrappedincolour/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Mar 2016 09:58:59 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 26 Mar 2016 10:08:44 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/wrappedincolour/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Wrapped In Colour </p>]]></description>
+            <link>https://thegrid.ai/wrappedincolour/wrapped-in-colour/index.html</link>
+            <guid isPermaLink="false">16b652a3-ab47-4245-ac68-e3bf496de469</guid>
+            <pubDate>Sat, 26 Mar 2016 10:08:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Events</p>]]></description>
-            <link>undefinedevents/index.html</link>
+            <link>https://thegrid.ai/wrappedincolour/events/index.html</link>
             <guid isPermaLink="false">6450ee15-ec88-4bc1-95a0-1c4b13cce05d</guid>
             <pubDate>Sat, 26 Mar 2016 09:58:51 GMT</pubDate>
         </item>
