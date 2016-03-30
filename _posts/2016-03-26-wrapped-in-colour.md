@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: "Wrapped In Colour\_"
-datePublished: '2016-03-29T08:02:07.180Z'
-dateModified: '2016-03-29T07:40:21.174Z'
+description: "\_Where you can find hand-knitted, scarves, shawls,hats, and gloves using hand-dyed or hand-painted yarn.   "
+datePublished: '2016-03-30T07:50:41.236Z'
+dateModified: '2016-03-30T07:50:36.186Z'
 title: About me
 author: []
 sourcePath: _posts/2016-03-26-wrapped-in-colour.md
@@ -23,8 +23,6 @@ _type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/acae0e16-40e7-4035-9fbc-8e9466548d93.jpg)
-
-Wrapped In Colour 
 
 Where you can find hand-knitted, scarves, shawls,hats, and gloves using hand-dyed or hand-painted yarn. 
 
