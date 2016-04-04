@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: "\_Where you can find hand-knitted, scarves, shawls,hats, and gloves using hand-dyed or hand-painted yarn.   "
-datePublished: '2016-03-30T07:50:41.236Z'
-dateModified: '2016-03-30T07:50:36.186Z'
+datePublished: '2016-04-04T07:16:11.048Z'
+dateModified: '2016-04-04T07:12:28.915Z'
 title: About me
 author: []
 sourcePath: _posts/2016-03-26-wrapped-in-colour.md
