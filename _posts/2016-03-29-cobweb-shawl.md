@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Cobweb Baby Shawl.
-datePublished: '2016-03-30T07:51:01.577Z'
-dateModified: '2016-03-30T07:51:00.643Z'
+datePublished: '2016-04-04T07:14:34.063Z'
+dateModified: '2016-04-04T07:14:33.649Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-29-cobweb-shawl.md
@@ -25,6 +25,11 @@ _type: Article
 Cobweb Baby Shawl.
 
 I was asked to make a baby christening shawl and the customer asked for the[Cobweb Lace Christening Shawl from Jamieson & Smith][0]. The problem was the pattern was written so I had to chart it before I could start. Once done things became a lot easier. :-)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8ce65538-f1aa-4073-8be0-4b64ddccd988.jpg)
+
+4th April 16 This is 63% of the shawl done. It gets quicker as the rows are getting shorter. :-) ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d81f040c-a70d-49d0-9846-dd18f38578ba.jpg)
+
+The corner and you can just see the rose. Still not sure if the rose was worth the effort as the whole thing will look a lot better when it has been blocked out.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c672c245-46bc-48ba-9378-330d082f155d.jpg)
 
 19th March 16 - The is the start of the rose pattern. It is not as bad as I imagined once you have got used to doing the pips
