@@ -1,19 +1,4 @@
-name: wrappedincolour
-favicon: null
-layout_spectrum: 0.24894
 typography_spectrum: 0.50742
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#db1811'
@@ -25,4 +10,20 @@ color:
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.5
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.24894
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: wrappedincolour
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+description: 'Where you can find hand-knitted scarves,shawls, ha'
 purpose: []
